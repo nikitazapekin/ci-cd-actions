@@ -22,4 +22,7 @@ https://docs.github.com/ru/actions
 
 
 
+после создания yml запушим на гит проект
+
+
 */
