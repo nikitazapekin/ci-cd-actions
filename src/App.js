@@ -13,37 +13,13 @@ function App() {
   );
 }
 
-
-/*
-class PortalExample extends Component {
-  constructor(props) {
-    super(props);
-    this.portalContainer = document.createElement('div');
-    document.body.appendChild(this.portalContainer);
-  }
-
-  componentWillUnmount() {
-    document.body.removeChild(this.portalContainer);
-  }
-
-  render() {
-    return ReactDOM.createPortal(
-      this.props.children,
-      this.portalContainer
-    );
-}
-
-class App extends Component {
-  render() {
-    return (
-      <div>
-        <h1>Это компонент внутри корневого элемента</h1>
-        <PortalExample>
-          <h2>Этот компонент рендерится вне корневого элемента</h2>
-        </PortalExample>
-      </div>
-    );
-  }
-}
-*/
+  
 export default App;
+/*
+
+
+https://docs.github.com/ru/actions
+
+
+
+*/
